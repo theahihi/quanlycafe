@@ -1,0 +1,167 @@
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe.config
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.pdb
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.AssemblyReference.cache
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Form1.resources
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Properties.Resources.resources
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.GenerateResource.cache
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.CoreCompileInputs.cache
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.exe
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.pdb
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.nhanvien.resources
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.hdn.resources
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.congdung.resources
+C:\Users\Dong Do\Desktop\họctrenlop\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.loaisp.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe.config
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.pdb
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.AssemblyReference.cache
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.congdung.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Form1.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Nhanvien.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.hdn.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.loaisp.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Properties.Resources.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.GenerateResource.cache
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.CoreCompileInputs.cache
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.exe
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.pdb
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlynhanvien.khachhang.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlyca.94C81C1D.Up2Date
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.nhacungcap.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.ResolveComReference.cache
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quandidulieu.frmhoadonbanhang.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.sanpham.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.formbaocaonhaphang.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodanhsachban.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhdn.resources
+C:\Users\Dong Do\Desktop\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhoadonban.resources
+D:\.NET\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe.config
+D:\.NET\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe
+D:\.NET\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.pdb
+D:\.NET\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\.NET\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\.NET\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\.NET\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.AssemblyReference.cache
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.ResolveComReference.cache
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.formbaocaonhaphang.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodanhsachban.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.congdung.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Form1.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Nhanvien.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.hdn.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.loaisp.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlynhanvien.khachhang.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.nhacungcap.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quandidulieu.frmhoadonbanhang.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Properties.Resources.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.sanpham.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhdn.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhoadonban.resources
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.GenerateResource.cache
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.CoreCompileInputs.cache
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlyca.94C81C1D.Up2Date
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.exe
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.pdb
+D:\.NET\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodoanhthu.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe.config
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.exe
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\bin\Debug\quanlycafen1.pdb
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.AssemblyReference.cache
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.ResolveComReference.cache
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodoanhthu.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.formbaocaonhaphang.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodanhsachban.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.congdung.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Form1.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Nhanvien.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.hdn.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.loaisp.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlynhanvien.khachhang.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.nhacungcap.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quandidulieu.frmhoadonbanhang.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.Properties.Resources.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycaphe.Forms.sanpham.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhdn.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhoadonban.resources
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.GenerateResource.cache
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.csproj.CoreCompileInputs.cache
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlyca.94C81C1D.Up2Date
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.exe
+D:\.NET\Cuối kỳ\quanlycafen1\quanlycafen1\obj\Debug\quanlycafen1.pdb
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.AssemblyReference.cache
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.ResolveComReference.cache
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodanhsachban.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.formbaocaonhaphang.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodoanhthu.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycaphe.Forms.congdung.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.Form1.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.Nhanvien.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.hdn.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycaphe.Forms.loaisp.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlynhanvien.khachhang.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.nhacungcap.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quandidulieu.frmhoadonbanhang.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.Properties.Resources.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycaphe.Forms.sanpham.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhdn.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhoadonban.resources
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.GenerateResource.cache
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.CoreCompileInputs.cache
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlyca.94C81C1D.Up2Date
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.exe.config
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.exe.manifest
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.application
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.exe
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.pdb
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.exe.manifest
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.application
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.exe
+C:\Users\Dong Do\Desktop\bản cuối\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.pdb
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.exe.config
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.exe.manifest
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.application
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.exe
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\Quản lý coffe.pdb
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.AssemblyReference.cache
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.ResolveComReference.cache
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodanhsachban.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.formbaocaonhaphang.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.form.baocaodoanhthu.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycaphe.Forms.congdung.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.Form1.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.Nhanvien.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.hdn.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycaphe.Forms.loaisp.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlynhanvien.khachhang.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.nhacungcap.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quandidulieu.frmhoadonbanhang.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.Properties.Resources.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycaphe.Forms.sanpham.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhdn.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.timkiemhoadonban.resources
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.GenerateResource.cache
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlycafen1.csproj.CoreCompileInputs.cache
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.exe.manifest
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.application
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\quanlyca.94C81C1D.Up2Date
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.exe
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\Quản lý coffe.pdb
+C:\Users\Dong Do\Desktop\Nhóm 1_BTL kết thúc học phần_winform+database+file ảnh\phần mềm quản lý cafe_winform\QUANLYCOFFEN1\quanlycafen1\obj\Debug\winform_trenlop.combobox1.resources
